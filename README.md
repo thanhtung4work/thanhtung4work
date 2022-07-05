@@ -16,5 +16,6 @@ Here are my project I have been working on
 <img src="/assets/Snek Start.png" alt="Snek start screen" style="height: 200px;"/>
 [Snek on itch.io](https://t34games.itch.io/snek)
 
-### [Flutter] World time app 
+## [Flutter] World time app 
+<img src="/assets/TimeApp.png" alt="TimeApp image" style="width: 300px;"/>
 [Github](https://github.com/thanhtung4work/Flutter-WorldTime-App)
