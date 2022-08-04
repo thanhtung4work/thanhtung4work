@@ -27,3 +27,7 @@ Here are my project I have been working on
 ## [Flutter] Tomadono (Pomodoro clone)
 <img src="/assets/Tomadono.png" alt="Tomadono image" style="width: 300px;"/>
 [Github](https://github.com/thanhtung4work/tomadono)
+
+## [Flutter] boomseeker (minesweeper clone)
+<img src="/assets/boomseeker.png" alt="boomseeker image" style="width: 300px;"/>
+[Github](https://github.com/thanhtung4work/boomseeker)
