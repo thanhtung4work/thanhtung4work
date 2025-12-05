@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhtung4work" alt="thanhtung4work" /></a> </p>
 
-- 🔭 I’m currently working on **Poem Generator**
-
-- 🌱 I’m currently learning **Tensorflow, Machine Learning, AI Architecture such as CNN, LSTM...**
-
-- 👨‍💻 All of my projects are available at [https://thanhtung4work.github.io/portfolio/](https://thanhtung4work.github.io/portfolio/)
-
 - 💬 Ask me about **Machine Learning and AI**
 
 - 📫 How to reach me **thanhtung.4work@gmail.com**
